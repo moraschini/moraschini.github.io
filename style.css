@@ -171,8 +171,8 @@ a:hover {
 /* Menu */
 
 #menu {
-	float: right;
-	width: 700px;
+	float: left;
+	width: 400px;
 	height: 90px;
 	margin: 0 auto;
 	padding: 0;
