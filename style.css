@@ -70,10 +70,10 @@ a:hover {
 }
 
 #header {
-	width: 900px;
+	width: 1100px;
 	height: 100px;
 	margin: 0 auto;
-	padding: 0px 0px;
+	padding: 0px 30px;
 	background: #000000;
 }
 
