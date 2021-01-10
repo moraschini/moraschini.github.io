@@ -19,7 +19,7 @@ h1, h2, h3 {
 	padding: 0;
 	text-transform: uppercase;
 	font-weight: normal;
-	font-family: "Oswald ", sans-serif;
+	font-family: Tahoma, Verdana, sans-serif;
 	font-weight: 200;
 	/*color: #79A62E;*/
 	color: #303030;
@@ -93,7 +93,7 @@ a:hover {
 #logo h1 {
 	line-height: 100px;
 	letter-spacing: -2px;
-	font-size: 2.8em;
+	font-size: 2.6em;
 }
 
 #logo h1 a {
